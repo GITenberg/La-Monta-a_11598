@@ -1,0 +1,29 @@
+_repo: La-Monta-a_11598
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reclus, Elisée
+    aliases:
+    - Reclus, Eliseo
+    - Reclus, Élisée
+    - Reclus, Jean Jacques Elisee
+    birthdate: 1830
+    deathdate: 1905
+    gutenberg_agent_id: '4044'
+    url: http://www.gutenberg.org/2009/agents/4044
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11598'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountains'
+- !lcc 'GB'
+- GITenberg
+title: La Montaña
+url: http://www.gutenberg.org/ebooks/11598
